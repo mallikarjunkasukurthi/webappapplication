@@ -5,7 +5,7 @@ namespace webapp.Pages
 {
     public class IndexModel : PageModel
     {
-        private readonly ILogger<IndexModel> _logger;
+        private readonly ILogger 5 <IndexModel> _logger;
 
         public IndexModel(ILogger<IndexModel> logger)
         {
